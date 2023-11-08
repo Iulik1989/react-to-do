@@ -1,0 +1,8 @@
+.listItemWrapper {
+    display: flex;
+    height: 40px;
+    padding: 4px 8px;
+    align-items: center;
+    border: 1px solid gray;
+    gap: 8px
+}
