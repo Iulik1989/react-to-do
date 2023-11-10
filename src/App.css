@@ -2,3 +2,17 @@
   border: 1px solid gray;
   margin: 32px
 }
+
+
+.toDoListWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+
+.toDoList {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  gap: 16px;
+}
